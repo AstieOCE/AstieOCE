@@ -8,9 +8,9 @@
 
 
 ## Coding Languages
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp) `Proficiency: 6/10`
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) `Proficiency: 8/10`
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) `Proficiency: 7/10`
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp) `Proficiency: 4/10`
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) `Proficiency: 4/10`
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) `Proficiency: 3/10`
 
 
 ## My GitHub Stats
