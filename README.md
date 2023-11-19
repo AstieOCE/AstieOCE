@@ -8,6 +8,7 @@
 
 
 ## Coding Languages
+<table>
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)  
 `Proficiency: 4/10`
 
@@ -16,7 +17,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 `Proficiency: 3/10`
-
+</table>
 
 
 
