@@ -9,10 +9,11 @@
 
 ## Coding Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp" alt="C#" /> <span>Proficiency: 4/10</span> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" /> <span>Proficiency: 4/10</span> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" /> <span>Proficiency: 3/10</span>
+  <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp" alt="C#" style="margin-right: 10px;" /> <span>Proficiency: 4/10</span>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" style="margin: 0 10px;" /> <span>Proficiency: 4/10</span>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" style="margin-left: 10px;" /> <span>Proficiency: 3/10</span>
 </p>
+
 
 
 
