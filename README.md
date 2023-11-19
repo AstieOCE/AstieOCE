@@ -1,10 +1,10 @@
 # Hi there, I'm [AstieOCE](https://github.com/AstieOCE) 👋👋👋
 
 ## About Me
-👨‍💻 I'm a passionate developer with a disgusting level of interest with code - but never truly dedicated myself to the lifestyle.
-🌱 Currently learning C#.
-🎯 2023 Goals: Grow my C# Skills above and beyond what I have previously reached with the other languages I know.
-🤝 Open to collaborate on interesting projects. To be honest, I usually just gamify everything for myself - Very ADHD sadly.
+- 👨‍💻 I'm a passionate developer with a disgusting level of interest with code - but never truly dedicated myself to the lifestyle.
+- 🌱 Currently learning C#.
+- 🎯 2023 Goals: Grow my C# Skills above and beyond what I have previously reached with the other languages I know.
+- 🤝 Open to collaborate on interesting projects. To be honest, I usually just gamify everything for myself - Very ADHD sadly.
 
 
 ## Coding Languages
